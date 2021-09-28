@@ -3,6 +3,8 @@ This repository provides a build of Minetest 5.5.0-dev built on the Raspberry Pi
 The binary might work on a 3 or 4, but I'd have to test it out to be sure.
 More builds coming soon, maybe?
 
+*PLEASE NOTE: You may need to restart your computer after instruction 3 to finalize libgl1-mesa-dev.*
+
 ## The Process
 
 	sudo apt update
